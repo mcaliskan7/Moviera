@@ -1,0 +1,17 @@
+"The Dark Knight" 9.0 2008
+"Brave Heart" 8.3 1995
+"Inception" 8.8 2010
+"Suicide Squad" 5.9 2016
+"Back to the Future" 8.5 1985
+"Forrest Gump" 8.8 1994
+"Avengers: Endgame" 8.4 2019
+"The Lord of The Rings: Two Towers" 8.7 2002
+"Fight Club" 8.8 1999
+"Whiplash" 8.5 2014
+"Seven" 8.6 1995
+"Titanic" 7.8 1997
+"Joker" 8.4 2019
+"Toy Story" 8.3 1995
+"Gravity" 7.7 2013
+"Mad Max Fury Road" 8.1 2015
+"Avengers: Infinity War" 8.4 2018
