@@ -40,7 +40,7 @@ int main(void) {
     cout << endl;
 
     //remove test
-    movies.remove("C");
+    movies.remove("Interstellar");
     cout << "After removing movie Interstellar" << endl;
     cout << endl;
     cout << "Sorted by movie names: " << endl; cout << endl;
@@ -54,7 +54,7 @@ int main(void) {
     cout << endl;
 
     //update test
-    movies.update("A",9.9);
+    movies.update("Matrix",9.9);
     cout << "After updating movie Matrix" << endl;
     cout << endl;
     cout << "Sorted by movie names: " << endl; cout << endl;
